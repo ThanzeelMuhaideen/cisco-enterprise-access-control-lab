@@ -125,15 +125,12 @@ ftp> rename aMessage_new.txt aMessage_rename.txt
 
 ---
 
-## 📁 Recommended Repository Layout
+<img width="1920" height="1024" alt="Screenshot (834)" src="https://github.com/user-attachments/assets/104ff087-7bd1-4b14-b6bc-1e7b6efe892e" />
+<img width="1920" height="1019" alt="Screenshot (835)" src="https://github.com/user-attachments/assets/910ea8b9-7ed8-4225-82af-4e8cf8b4c0e7" />
+<img width="1920" height="1019" alt="Screenshot (836)" src="https://github.com/user-attachments/assets/889790a4-4ccc-4e62-96ae-d66f1e3c0740" />
+<img width="1920" height="1015" alt="Screenshot (837)" src="https://github.com/user-attachments/assets/5a12cb5d-aa1c-4f78-b5a5-71089f49ae82" />
+<img width="1920" height="1019" alt="Screenshot (838)" src="https://github.com/user-attachments/assets/75b45884-ec28-40c4-b57b-37d89c477729" />
 
-```text
-├── README.md                          # Project Documentation
-├── screenshots/                       # Lab Evidence & Topology Visuals
-│   ├── network_topology.png           # Packet Tracer Topology Layout
-│   ├── aaa_radius_configuration.png   # AAA User Configuration
-│   ├── email_verification.png          # Successful Email Routing Test
-│   └── ftp_privilege_cli_test.png     # CLI Output showing Privilege Audit
 ```
 
 ---
